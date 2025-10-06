@@ -1,0 +1,164 @@
+##################################################
+#                Français (FR)                   #
+##################################################
+
+# La Roue de la Chance - Outil de Tirage au Sort en Ligne & Roulette Aléatoire Personnalisable
+
+La Roue de la Chance (larouedelachance.com) est un outil en ligne gratuit, interactif et personnalisable qui permet aux utilisateurs de créer et de lancer des roues de la fortune pour prendre des décisions, organiser des tirages au sort, animer des jeux ou à des fins éducatives. Le site est disponible en 5 langues : Français (FR), Anglais (EN), Espagnol (ES), Allemand (DE), et Portugais (PT).
+
+## Pages Principales (FR)
+
+- [Accueil](https://larouedelachance.com/fr): Créez et lancez une roue de la chance entièrement personnalisable. Outil gratuit pour le tirage au sort de noms, de défis ou de décisions.
+- [Bibliothèque de Roues](https://larouedelachance.com/fr/bibliotheque-de-roues-aleatoires): Explorez des modèles de roues prêts à l'emploi (Oui/Non, couleurs, alphabet, films, etc.).
+- [Guide d'Utilisation](https://larouedelachance.com/fr/guide-roue-de-la-chance): Apprenez à maîtriser toutes les fonctionnalités de notre roulette aléatoire personnalisable.
+- [FAQ](https://larouedelachance.com/fr/faq-roue-de-la-chance): Réponses aux questions fréquentes sur le fonctionnement de la roue, la personnalisation et la confidentialité.
+- [Contact & Partenariats](https://larouedelachance.com/fr/contact-partenariats): Formulaire pour nous contacter pour toute question, suggestion ou proposition de collaboration.
+- [Blog](https://larouedelachance.com/fr/blog): Astuces, idées de jeux et actualités sur l'univers du tirage au sort et de la roue de la chance.
+- [Politique de Confidentialité](https://larouedelachance.com/fr/politique-de-confidentialite): Informations sur la gestion des données (spoiler : nous ne collectons rien).
+
+## Roues Thématiques (FR)
+
+- [Roue de la chance Oui ou Non](https://larouedelachance.com/fr/roue-de-la-chance-oui-non): Pour les décisions binaires rapides. Un tirage au sort 50/50 pour éliminer l'hésitation.
+- [Roue de la chance Oui/Non/Peut-être](https://larouedelachance.com/fr/roue-de-la-chance-oui-non-peut-etre): Ajoute de la nuance aux choix lorsque 'Oui' ou 'Non' ne suffit pas.
+- [Roue de la chance des Couleurs](https://larouedelachance.com/fr/roue-de-la-chance-couleurs): Tire une couleur au hasard pour les défis artistiques, le design ou les jeux.
+- [Roue de la chance de l'Alphabet (A-Z)](https://larouedelachance.com/fr/roue-de-la-chance-alphabet-a-z): Parfait pour le jeu du Petit Bac ou pour l'apprentissage des lettres.
+- [Roue de la chance des Films d'Action](https://larouedelachance.com/fr/roue-de-la-chance-films-action): Choisit un film culte pour votre soirée cinéma.
+- [Roue de la chance des 10 Pays les plus Visités](https://larouedelachance.com/fr/roue-de-la-chance-10-pays-visites): Laisse le hasard choisir votre prochaine destination de voyage.
+- [Roue de la chance Europe de l'Ouest](https://larouedelachance.com/fr/roue-de-la-chance-europe-ouest): Outil ludique pour découvrir les pays d'Europe de l'Ouest.
+
+## Articles de Blog (FR)
+
+- [Voyage Privé : Le Secret d'une Escapade de Rêve](https://larouedelachance.com/fr/voyage-prive-escapade-reve): Comment profiter d'offres de luxe à prix réduit.
+- [Leclerc Voyage : Des Vacances de Qualité pour Tous](https://larouedelachance.com/fr/leclerc-voyage-vacances-accessibles): Les bons plans pour organiser ses vacances avec Leclerc.
+- [Carrefour Voyages : Les Bons Plans pour des Vacances Réussies](https://larouedelachance.com/fr/carrefour-voyages-bons-plans): Astuces et offres pour voyager avec Carrefour.
+- [Voyage Crète TUI : Vivre une Expérience Inoubliable](https://larouedelachance.com/fr/voyage-crete-tui-experience-inoubliable): Les meilleurs clubs et excursions en Crète.
+- [Voyage Tout Compris TUI : La Formule de la Sérénité Absolue](https://larouedelachance.com/fr/voyage-tout-compris-tui-serenite-absolue): Les avantages de la formule "all-inclusive" avec TUI.
+- [Voyage Espagne Tout Compris TUI : La Garantie de Vacances au Soleil](https://larouedelachance.com/fr/voyage-espagne-tout-compris-tui-vacances-reussies): Les meilleures destinations en Espagne pour un séjour tout compris.
+
+##################################################
+#                   English (EN)                 #
+##################################################
+
+# Spin Wheel - Online Random Picker & Custom Wheel Generator
+
+The Wheel of Chance (larouedelachance.com) is a free, interactive, and customizable online tool that allows users to create and spin wheels of fortune to make decisions, conduct prize draws, host games, or for educational purposes. The site is available in 5 languages: French (FR), English (EN), Spanish (ES), German (DE), and Portuguese (PT).
+
+## Main Pages (EN)
+
+- [Home](https://larouedelachance.com/en): Create and spin a fully customizable wheel. A free tool for drawing names, challenges, or decisions.
+- [Spin Wheel Library](https://larouedelachance.com/en/random-spin-wheel-library): Explore ready-to-use wheel templates (Yes/No, colors, alphabet, movies, etc.).
+- [User Guide](https://larouedelachance.com/en/guide-spin-wheel-of-chance): Learn to master all the features of our custom random picker.
+- [FAQ](https://larouedelachance.com/en/faq-spin-wheel-of-chance): Answers to frequently asked questions about how the wheel works, customization, and privacy.
+- [Contact & Partnerships](https://larouedelachance.com/en/contact-partnerships): A form to contact us with any questions, suggestions, or collaboration proposals.
+- [Blog](https://larouedelachance.com/en/blog): Tips, game ideas, and news from the world of random draws and spin wheels.
+- [Privacy Policy](https://larouedelachance.com/en/privacy-policy): Information on data management (spoiler: we collect nothing).
+
+## Themed Wheels (EN)
+
+- [Yes or No Spin Wheel](https://larouedelachance.com/en/yes-no-spin-wheel): For quick binary decisions. A 50/50 random draw to eliminate hesitation.
+- [Yes/No/Maybe Spin Wheel](https://larouedelachance.com/en/yes-no-maybe-spin-wheel): Adds nuance to choices when a simple 'Yes' or 'No' is not enough.
+- [Color Spin Wheel](https://larouedelachance.com/en/color-spin-wheel): Picks a random color for art challenges, design, or games.
+- [Alphabet Spin Wheel (A-Z)](https://larouedelachance.com/en/alphabet-spin-wheel-a-z): Perfect for games like Scattergories or for learning the alphabet.
+- [Top 10 Action Movies Spin Wheel](https://larouedelachance.com/en/online-spin-wheel-top-10-action-movies): Chooses a classic film for your movie night.
+- [Top 10 Visited Countries Spin Wheel](https://larouedelachance.com/en/spin-wheel-top-10-visited-countries): Let chance pick your next travel destination.
+- [Western Europe Spin Wheel](https://larouedelachance.com/en/spin-wheel-western-europe): A fun tool to discover the countries of Western Europe.
+
+## Blog Posts (EN)
+
+- [How to Use a Prize Wheel to Boost Your Business](https://larouedelachance.com/en/how-to-use-a-prize-wheel-for-your-business): Discover how a prize wheel can increase engagement and generate leads.
+
+##################################################
+#                   Español (ES)                 #
+##################################################
+
+# Ruleta de la Suerte - Herramienta de Sorteo en Línea y Ruleta Aleatoria Personalizable
+
+La Rueda de la Suerte (larouedelachance.com) es una herramienta en línea gratuita, interactiva y personalizable que permite a los usuarios crear y girar ruletas de la fortuna para tomar decisiones, organizar sorteos, animar juegos o con fines educativos. El sitio está disponible en 5 idiomas: Francés (FR), Inglés (EN), Español (ES), Alemán (DE) y Portugués (PT).
+
+## Páginas Principales (ES)
+
+- [Inicio](https://larouedelachance.com/es): Crea y gira una ruleta de la suerte completamente personalizable. Herramienta gratuita para sortear nombres, retos o decisiones.
+- [Biblioteca de Ruletas](https://larouedelachance.com/es/biblioteca-de-ruletas-aleatorias): Explora plantillas de ruletas listas para usar (Sí/No, colores, alfabeto, películas, etc.).
+- [Guía de Uso](https://larouedelachance.com/es/guia-ruleta-de-la-suerte): Aprende a dominar todas las funciones de nuestra ruleta giratoria personalizada.
+- [FAQ](https://larouedelachance.com/es/faq-ruleta-de-la-suerte): Respuestas a preguntas frecuentes sobre el funcionamiento de la ruleta, la personalización y la privacidad.
+- [Contacto y Colaboraciones](https://larouedelachance.com/es/contacto-colaboraciones): Formulario para contactarnos para cualquier pregunta, sugerencia o propuesta de colaboración.
+- [Blog](https://larouedelachance.com/es/blog): Consejos, ideas de juegos y noticias del mundo de los sorteos y la rueda de la fortuna.
+- [Política de Privacidad](https://larouedelachance.com/es/politica-de-privacidad): Información sobre la gestión de datos (spoiler: no recopilamos nada).
+
+## Ruletas Temáticas (ES)
+
+- [Ruleta Giratoria Sí o No](https://larouedelachance.com/es/ruleta-giratoria-si-no): Para decisiones binarias rápidas. Un sorteo 50/50 para eliminar la vacilación.
+- [Ruleta Giratoria Sí/No/Quizás](https://larouedelachance.com/es/ruleta-giratoria-si-no-quizas): Añade matices a las elecciones cuando 'Sí' o 'No' no es suficiente.
+- [Ruleta Giratoria de Colores](https://larouedelachance.com/es/ruleta-giratoria-colores): Elige un color al azar para desafíos artísticos, diseño o juegos.
+- [Ruleta Giratoria del Alfabeto (A-Z)](https://larouedelachance.com/es/ruleta-giratoria-alfabeto-a-z): Perfecta para el juego de Tutti Frutti o para aprender el alfabeto.
+- [Ruleta Giratoria de Películas de Acción](https://larouedelachance.com/es/ruleta-giratoria-peliculas-accion): Elige una película de culto para tu noche de cine.
+- [Ruleta Giratoria de los 10 Países Más Visitados](https://larouedelachance.com/es/ruleta-giratoria-10-paises-visitados): Deja que el azar elija tu próximo destino de viaje.
+- [Ruleta Giratoria de Europa Occidental](https://larouedelachance.com/es/ruleta-giratoria-europa-occidental): Una herramienta lúdica para descubrir los países de Europa Occidental.
+
+## Artículos del Blog (ES)
+
+- [Cómo Usar una Ruleta de Premios para Sorteos en Redes Sociales](https://larouedelachance.com/es/ruleta-de-premios-para-sorteos-en-redes-sociales): Aumenta la participación en tus sorteos con una ruleta visual y emocionante.
+
+##################################################
+#                   Deutsch (DE)                 #
+##################################################
+
+# Glücksrad - Online-Zufallsrad & Anpassbares Drehrad
+
+Das Glücksrad (larouedelachance.com) ist ein kostenloses, interaktives und anpassbares Online-Tool, mit dem Benutzer Glücksräder erstellen und drehen können, um Entscheidungen zu treffen, Verlosungen zu organisieren, Spiele zu moderieren oder für Bildungszwecke. Die Seite ist in 5 Sprachen verfügbar: Französisch (FR), Englisch (EN), Spanisch (ES), Deutsch (DE) und Portugiesisch (PT).
+
+## Hauptseiten (DE)
+
+- [Startseite](https://larouedelachance.com/de): Erstellen und drehen Sie ein vollständig anpassbares Glücksrad. Kostenloses Werkzeug zum Ziehen von Namen, Herausforderungen oder Entscheidungen.
+- [Zufallsräder-Bibliothek](https://larouedelachance.com/de/bibliothek-zufallsrader): Entdecken Sie fertige Radvorlagen (Ja/Nein, Farben, Alphabet, Filme usw.).
+- [Anleitung](https://larouedelachance.com/de/anleitung-zufallsrad): Lernen Sie, alle Funktionen unseres anpassbaren Zufallsrads zu beherrschen.
+- [FAQ](https://larouedelachance.com/de/faq-zufallsrad): Antworten auf häufig gestellte Fragen zur Funktionsweise des Rads, zur Anpassung und zum Datenschutz.
+- [Kontakt & Partnerschaften](https://larouedelachance.com/de/kontakt-partnerschaften): Kontaktformular für Fragen, Anregungen oder Kooperationsvorschläge.
+- [Blog](https://larouedelachance.com/de/blog): Tipps, Spielideen und Neuigkeiten aus der Welt der Verlosungen und Glücksräder.
+- [Datenschutzrichtlinie](https://larouedelachance.com/de/datenschutzrichtlinie): Informationen zum Datenmanagement (Spoiler: wir sammeln nichts).
+
+## Thematische Glücksräder (DE)
+
+- [Ja oder Nein Glücksrad](https://larouedelachance.com/de/ja-nein-glucksrad): Für schnelle binäre Entscheidungen. Eine 50/50-Ziehung, um Zögern zu beseitigen.
+- [Ja/Nein/Vielleicht Glücksrad](https://larouedelachance.com/de/ja-nein-vielleicht-glucksrad): Fügt Nuancen zu Entscheidungen hinzu, wenn 'Ja' oder 'Nein' nicht ausreicht.
+- [Farben-Glücksrad](https://larouedelachance.com/de/farben-glucksrad): Zieht eine zufällige Farbe für künstlerische Herausforderungen, Design oder Spiele.
+- [Alphabet-Glücksrad (A-Z)](https://larouedelachance.com/de/alphabet-glucksrad-a-z): Perfekt für Spiele wie Stadt, Land, Fluss oder zum Buchstabenlernen.
+- [Actionfilme-Glücksrad](https://larouedelachance.com/de/actionfilme-glucksrad): Wählt einen Kultfilm für Ihren Filmabend.
+- [Top 10 Länder-Glücksrad](https://larouedelachance.com/de/top-10-lander-glucksrad): Lassen Sie den Zufall Ihr nächstes Reiseziel wählen.
+- [Westeuropa-Glücksrad](https://larouedelachance.com/de/westeuropa-glucksrad): Ein spielerisches Werkzeug zur Entdeckung der Länder Westeuropas.
+
+## Blog-Artikel (DE)
+
+- *Derzeit sind keine Artikel auf Deutsch verfügbar. Besuchen Sie bald wieder für neue Inhalte.*
+
+##################################################
+#                 Português (PT)                 #
+##################################################
+
+# Roda da Sorte - Ferramenta de Sorteio Online e Roleta Giratória Personalizável
+
+A Roda da Sorte (larouedelachance.com) é uma ferramenta online gratuita, interativa e personalizável que permite aos utilizadores criar e girar rodas da sorte para tomar decisões, organizar sorteios, animar jogos ou para fins educativos. O site está disponível em 5 línguas: Francês (FR), Inglês (EN), Espanhol (ES), Alemão (DE) e Português (PT).
+
+## Páginas Principais (PT)
+
+- [Início](https://larouedelachance.com/pt): Crie e gire uma roda da sorte totalmente personalizável. Ferramenta gratuita para sorteio de nomes, desafios ou decisões.
+- [Biblioteca de Rodas da Sorte](https://larouedelachance.com/pt/biblioteca-de-rodas-da-sorte): Explore modelos de roletas prontos a usar (Sim/Não, cores, alfabeto, filmes, etc.).
+- [Guia de Utilização](https://larouedelachance.com/pt/guia-roda-da-sorte): Aprenda a dominar todas as funcionalidades da nossa roleta aleatória personalizável.
+- [FAQ](https://larouedelachance.com/pt/faq-roda-da-sorte): Respostas a perguntas frequentes sobre o funcionamento da roda, personalização e privacidade.
+- [Contato e Parcerias](https://larouedelachance.com/pt/contato-parcerias): Formulário para nos contactar para qualquer questão, sugestão ou proposta de colaboração.
+- [Blog](https://larouedelachance.com/pt/blog): Dicas, ideias de jogos e notícias do universo dos sorteios e da roda da sorte.
+- [Política de Privacidade](https://larouedelachance.com/pt/politica-de-privacidade): Informações sobre a gestão de dados (spoiler: não recolhemos nada).
+
+## Roletas Temáticas (PT)
+
+- [Roda da Sorte Sim ou Não](https://larouedelachance.com/pt/roda-da-sorte-sim-nao): Para decisões binárias rápidas. Um sorteio 50/50 para eliminar a hesitação.
+- [Roda da Sorte Sim/Não/Talvez](https://larouedelachance.com/pt/roda-da-sorte-sim-nao-talvez): Adiciona nuances às escolhas quando 'Sim' ou 'Não' não é suficiente.
+- [Roda da Sorte das Cores](https://larouedelachance.com/pt/roda-da-sorte-cores): Sorteia uma cor ao acaso para desafios artísticos, design ou jogos.
+- [Roda da Sorte do Alfabeto (A-Z)](https://larouedelachance.com/pt/roda-da-sorte-alfabeto-a-z): Perfeita para o jogo do Stop ou para aprender o alfabeto.
+- [Roda da Sorte de Filmes de Ação](https://larouedelachance.com/pt/roda-da-sorte-filmes-acao): Escolhe um filme de culto para a sua noite de cinema.
+- [Roda da Sorte dos 10 Países Mais Visitados](https://larouedelachance.com/pt/roda-da-sorte-10-paises-visitados): Deixe o acaso escolher o seu próximo destino de viagem.
+- [Roda da Sorte da Europa Ocidental](https://larouedelachance.com/pt/roda-da-sorte-europa-ocidental): Uma ferramenta lúdica para descobrir os países da Europa Ocidental.
+
+## Artigos do Blog (PT)
+
+- *Atualmente, não há artigos disponíveis em português. Volte em breve para novos conteúdos.*

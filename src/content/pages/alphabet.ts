@@ -1,0 +1,228 @@
+
+export const translations = {
+    fr: {
+        metaTitle: "Roue de la Chance de l'Alphabet (A-Z) | Roue aléatoire pour le jeu du Bac",
+        metaDescription: "Tirez une lettre au hasard avec notre roue de l'alphabet (A-Z). Cette roulette en ligne gratuite est l'outil de tirage au sort parfait pour le jeu du petit bac.",
+        ogImage: 'https://avisclients.digitalextension.fr/wp-content/uploads/2025/07/roue-en-ligne-alphabet.webp',
+        pageTitle: "Roue de la Chance de l'Alphabet (A-Z)",
+        description: "Lancez notre roue aléatoire A-Z pour vos jeux comme le petit bac ou pour un tirage au sort de lettre.",
+        storageWarning: "Sauvegarde automatique : L'historique des résultats est enregistré dans votre navigateur.",
+        spinButton: "LANCER",
+        resultsTitle: "Historique",
+        hideTooltip: "Masquer le panneau",
+        showTooltip: "Afficher le panneau",
+        clear: "Vider",
+        draw: "Tirage",
+        noResults: "Aucun résultat. Lancez la roue !",
+        sectionTitle: "La <strong>Roue de la Chance de l'Alphabet</strong> : Pour les Jeux et l'Apprentissage",
+        sectionDescription: "Un outil simple et amusant pour sélectionner une lettre de l'alphabet au hasard. Idéal pour le petit bac, les jeux de société, ou pour aider les enfants à apprendre les lettres avec une roulette aléatoire.",
+        whatIsTitle: "Qu'est-ce que la Roue de l'Alphabet ?",
+        whatIsText: "C'est une roue de la chance en ligne pré-configurée avec les 26 lettres de l'alphabet, de A à Z. Chaque lettre a une chance égale d'être sélectionnée, garantissant un tirage perfectly équitable à chaque lancer.",
+        whyUseTitle: "Pourquoi utiliser cette roue du hasard ?",
+        whyUseText: "Elle est perfecte pour remplacer les méthodes traditionnelles de tirage de lettres. Fini les bouts de papier dans un chapeau ! Cette roue aléatoire est visuelle, rapide, et beaucoup plus amusante. Elle est idéale pour animer des jeux ou des activités éducatives.",
+        howToUseTitle: "Comment utiliser la roue en ligne ?",
+        howToUseSteps: [
+            "<strong>La roue est prête :</strong> Aucune configuration n'est nécessaire, les 26 lettres sont déjà là.",
+            "<strong>Cliquez sur \"LANCER\" :</strong> Appuyez sur le bouton pour démarrer la rotation de la roulette aléatoire.",
+            "<strong>Obtenez votre lettre :</strong> La roue s'arrêtera pour révéler une lettre choisie complètement au hasard."
+        ],
+        ideasTitle: "Idées d'utilisation",
+        ideasItems: [
+            "<strong>Jeu du Baccalauréat (Petit Bac) :</strong> Tirez une lettre avec la roue en ligne hasard pour commencer chaque tour.",
+            "<strong>Apprentissage pour enfants :</strong> Aidez les enfants à reconnaître les lettres de manière ludique avec la roue de la chance.",
+            "<strong>Création de personnages :</strong> Tirez au sort la première lettre du nom de votre prochain personnage de jeu de rôle.",
+            "<strong>Briser la glace :</strong> Demandez à chacun de dire un mot commençant par la lettre tirée."
+        ],
+        faqTitle: "Questions Fréquemment Posées",
+        faqItems: [
+            { "q": "La roue est-elle vraiment aléatoire ?", "a": "<strong>Absolument.</strong> Notre roue du hasard utilise un algorithme de Génération de Nombres Aléatoires de pointe pour garantir que chaque résultat est <strong>totalement imprévisible et indépendant</strong> des tours précédents. Chaque segment a une probabilité égale d'être sélectionné, assurant un tirage 100% juste et équitable. Pour en savoir plus sur le fonctionnement, vous pouvez consulter notre <a href='/fr/guide-roue-de-la-chance' class='text-primary hover:underline'>guide d'utilisation</a>." },
+            { "q": "Puis-je utiliser la roue sur mon téléphone mobile ?", "a": "<strong>Oui, bien sûr !</strong> Notre site est entièrement \"responsive\", ce qui signifie que notre roue en ligne est conçue pour fonctionner parfaitement sur tous les appareils : ordinateurs de bureau, tablettes et smartphones. L'expérience est optimisée pour que vous puissiez faire tourner la roue où que vous soyez, quand vous le voulez." },
+            { "q": "Comment sont sauvegardées mes options ?", "a": "La configuration de votre roue de la chance, y compris les options, est <strong>automatiquement sauvegardée dans le stockage local de votre navigateur</strong> (`localStorage`). Cela signifie que lorsque vous revenez sur notre site, vous retrouvez votre roue telle que vous l'avez laissée. C'est 100% privé et sécurisé sur votre appareil." },
+            { "q": "Comment partager ma roue personnalisée ?", "a": "C'est très facile ! Utilisez le bouton <strong>'Partager'</strong> situé dans l'en-tête de la page. Cela générera un lien URL unique contenant la configuration de votre roue. Vous pourrez copier ce lien et l'envoyer à vos amis. Ils utiliseront alors exactement la même roue aléatoire que vous, ce qui est parfait pour les jeux à distance !" },
+            { "q": "Mes données sont-elles vraiment privées ?", "a": "<strong>La confidentialité est notre priorité absolue.</strong> Toutes les données de votre roue (options et historique) sont stockées <strong>uniquement sur votre appareil</strong>. Nous ne collectons, ne voyons, ni ne stockons aucune de ces informations sur nos serveurs. C'est une des raisons pour lesquelles notre outil est si rapide et sécurisé. Pour plus de détails, n'hésitez pas à consulter notre <a href='/fr/politique-de-confidentialite' class='text-primary hover:underline'>Politique de Confidentialité</a>." }
+        ],
+        ctaTitle: "Besoin d'autres options ?",
+        ctaText: "Créez une roue de la chance personnalisable avec des prénoms, des défis ou n'importe quoi d'autre !",
+        ctaLink: "➤ Créer une Roue Personnalisée"
+    },
+    en: {
+        metaTitle: "Alphabet Spin Wheel (A-Z) | Random Picker for Letter Games",
+        metaDescription: "Randomly draw a letter with our A-Z alphabet spin wheel. This free online spinner is the perfect random picker for games like Scattergories or learning.",
+        ogImage: 'https://avisclients.digitalextension.fr/wp-content/uploads/2025/07/roue-en-ligne-alphabet.webp',
+        pageTitle: "Alphabet Spin Wheel (A-Z)",
+        description: "Use our A-Z spin wheel generator for your word games. An ideal random picker to spin for a letter.",
+        storageWarning: "Automatic saving: The results history is saved in your browser.",
+        spinButton: "SPIN",
+        resultsTitle: "History",
+        hideTooltip: "Hide panel",
+        showTooltip: "Show panel",
+        clear: "Clear",
+        draw: "Draw",
+        noResults: "No results. Spin the wheel!",
+        sectionTitle: "The <strong>Alphabet Spin Wheel</strong>: For Games and Learning",
+        sectionDescription: "A simple and fun tool to select a random letter from the alphabet. Ideal for Scattergories, board games, or helping children learn their letters with a random spinner.",
+        whatIsTitle: "What is the Alphabet Wheel?",
+        whatIsText: "It's a pre-configured spin wheel with the 26 letters of the alphabet, from A to Z. Each letter has an equal chance of being selected, ensuring a perfectly fair draw every spin.",
+        whyUseTitle: "Why use this spin wheel?",
+        whyUseText: "It's perfect for replacing traditional letter-drawing methods. No more bits of paper in a hat! This random picker is visual, fast, and much more fun. It's great for livening up games or educational activities.",
+        howToUseTitle: "How to use the online spinner?",
+        howToUseSteps: [
+            "<strong>The wheel is ready:</strong> No setup is needed, all 26 letters are already there.",
+            "<strong>Click \"SPIN\":</strong> Press the button to start the rotation of the random spinner.",
+            "<strong>Get your letter:</strong> The wheel will stop to reveal a letter chosen completely at random."
+        ],
+        ideasTitle: "Usage Ideas",
+        ideasItems: [
+            "<strong>Scattergories game:</strong> Spin the wheel to draw a letter and start each round.",
+            "<strong>Children's learning:</strong> Use the spin wheel to help kids recognize letters in a fun and interactive way.",
+            "<strong>Character creation:</strong> Randomly draw the first letter of your next role-playing game character's name.",
+            "<strong>Icebreakers:</strong> Ask everyone in a group to say a word starting with the drawn letter."
+        ],
+        faqTitle: "Frequently Asked Questions",
+        faqItems: [
+            { "q": "Is the wheel truly random?", "a": "<strong>Absolutely.</strong> Our spin wheel uses a state-of-the-art Random Number Generator (RNG) algorithm to ensure that every result is <strong>completely unpredictable and independent</strong> of previous spins. Each segment has an equal probability of being selected, guaranteeing a 100% fair draw. You can learn more in our <a href='/en/guide-spin-wheel-of-chance' class='text-primary hover:underline'>user guide</a>." },
+            { "q": "Can I use the spin wheel on my mobile phone?", "a": "<strong>Yes, of course!</strong> Our website is fully responsive, which means it is designed to work perfectly on all devices: desktops, tablets, and smartphones. The experience is optimized so you can spin the wheel wherever and whenever you want." },
+            { "q": "How is my custom wheel configuration saved?", "a": "Your wheel configuration, including your custom options, is <strong>automatically saved in your browser's local storage</strong> (`localStorage`). This means when you return to our site, you'll find your wheel just as you left it. It's 100% private and secure on your device." },
+            { "q": "How can I share my custom wheel?", "a": "It's very easy! Use the <strong>'Share' button</strong> in the page header. This will generate a unique URL containing your wheel's setup. You can copy this link and send it to your friends. They will then be able to use the exact same random wheel as you, which is perfect for remote games!" },
+            { "q": "Is my data really private?", "a": "<strong>Privacy is our absolute priority.</strong> All your wheel data (options and history) is stored <strong>only on your device</strong>. We do not collect, see, or store any of this information on our servers. This is one of the reasons our tool is so fast and secure. For more details, feel free to consult our <a href='/en/privacy-policy' class='text-primary hover:underline'>Privacy Policy</a>." }
+        ],
+        ctaTitle: "Need other options?",
+        ctaText: "Create a custom spin wheel with names, numbers, challenges, or anything else!",
+        ctaLink: "➤ Create a Custom Wheel"
+    },
+    es: {
+        metaTitle: "Ruleta del Alfabeto (A-Z) | Ruleta Online de Letras",
+        metaDescription: "Saca una letra al azar con nuestra ruleta del alfabeto A-Z. Esta ruleta online es la herramienta de sorteo perfecta para juegos como Tutti Frutti o para aprender.",
+        ogImage: 'https://avisclients.digitalextension.fr/wp-content/uploads/2025/07/roue-en-ligne-alphabet.webp',
+        pageTitle: "Ruleta del Alfabeto (A-Z)",
+        description: "Gira nuestra ruleta online A-Z para tus juegos. Una ruleta aleatoria ideal para un sorteo de letras.",
+        storageWarning: "Guardado automático: El historial de resultados se guarda en tu navegador.",
+        spinButton: "GIRAR",
+        resultsTitle: "Historial",
+        hideTooltip: "Ocultar panel",
+        showTooltip: "Mostrar panel",
+        clear: "Limpiar",
+        draw: "Sorteo",
+        noResults: "Sin resultados. ¡Gira la ruleta!",
+        sectionTitle: "La <strong>Ruleta del Alfabeto</strong>: Para Juegos y Aprendizaje",
+        sectionDescription: "Una herramienta simple y divertida para seleccionar una letra del alfabeto al azar. Ideal para Tutti Frutti, juegos de mesa o para ayudar a los niños a aprender las letras.",
+        whatIsTitle: "¿Qué es la Ruleta del Alfabeto?",
+        whatIsText: "Es una ruleta preconfigurada con las 26 letras del alfabeto, de la A a la Z. Cada letra tiene la misma probabilidad de ser seleccionada, garantizando un sorteo perfectamente justo en cada giro.",
+        whyUseTitle: "¿Por qué usar esta ruleta?",
+        whyUseText: "Es perfecta para reemplazar los métodos tradicionales de sorteo de letras. ¡Se acabaron los papelitos en un sombrero! Es visual, rápida y mucho más divertida. Es ideal para animar juegos o actividades educativas.",
+        howToUseTitle: "¿Cómo se usa?",
+        howToUseSteps: [
+            "<strong>La ruleta está lista:</strong> No se necesita configuración, las 26 letras ya están ahí.",
+            "<strong>Haz clic en \"GIRAR\":</strong> Pulsa el botón para iniciar la rotación.",
+            "<strong>Obtén tu letra:</strong> La ruleta se detendrá para revelar una letra elegida completamente al azar."
+        ],
+        ideasTitle: "Ideas de uso",
+        ideasItems: [
+            "<strong>Juego de Tutti Frutti:</strong> Saca una letra para empezar cada ronda.",
+            "<strong>Aprendizaje infantil:</strong> Ayuda a los niños a reconocer las letras de forma lúdica.",
+            "<strong>Creación de personajes:</strong> Sortea la primera letra del nombre de tu próximo personaje de rol.",
+            "<strong>Rompehielos:</strong> Pide a cada uno que diga una palabra que empiece por la letra sorteada."
+        ],
+        faqTitle: "Preguntas Frecuentes",
+        faqItems: [
+            { "q": "¿La ruleta es realmente aleatoria?", "a": "<strong>Absolutamente.</strong> Nuestra ruleta utiliza un algoritmo de Generador de Números Aleatorios (RNG) para garantizar que cada resultado sea <strong>impredecible e independiente</strong> de los giros anteriores. Cada segmento tiene la misma probabilidad de ser seleccionado, asegurando un sorteo 100% justo. Puedes aprender más en nuestra <a href='/es/guia-ruleta-de-la-suerte' class='text-primary hover:underline'>guía de uso</a>." },
+            { "q": "¿Puedo usar la ruleta en mi teléfono móvil?", "a": "<strong>¡Sí, claro!</strong> Nuestro sitio está completamente diseñado para funcionar perfectamente en todos los dispositivos: ordenadores, tabletas y teléfonos inteligentes. La experiencia está optimizada para que puedas girar la ruleta estés donde estés." },
+            { "q": "¿Cómo se guardan mis opciones?", "a": "La configuración de tu ruleta, incluyendo tus opciones personalizadas, se <strong>guarda automáticamente en el almacenamiento local de tu navegador</strong> (`localStorage`). Esto significa que cuando regreses, encontrarás tu ruleta tal como la dejaste. ¡Es 100% privado y seguro en tu dispositivo!" },
+            { "q": "¿Cómo comparto mi ruleta personalizada?", "a": "¡Es muy fácil! Utiliza el botón <strong>'Compartir'</strong> situado en el encabezado de la página. Esto generará un enlace URL único que contiene la configuración de tu ruleta. Puedes copiar este enlace y enviarlo a tus amigos, lo que es perfecto para juegos a distancia." },
+            { "q": "¿Mis datos son realmente privados?", "a": "<strong>La privacidad es nuestra máxima prioridad.</strong> Todos los datos de tu ruleta (opciones e historial) se almacenan <strong>únicamente en tu dispositivo</strong>. No recopilamos, vemos ni almacenamos ninguna de esta información en nuestros servidores. Para más detalles, no dudes en consultar nuestra <a href='/es/politica-de-privacidad' class='text-primary hover:underline'>Política de Privacidad</a>." }
+        ],
+        ctaTitle: "¿Necesitas otras opciones?",
+        ctaText: "¡Crea una ruleta con nombres, números, desafíos o cualquier otra cosa!",
+        ctaLink: "➤ Crear una Ruleta Personalizada"
+    },
+    de: {
+        metaTitle: "Alphabet-Glücksrad (A-Z) | Online Rad für Buchstaben",
+        metaDescription: "Ziehen Sie einen zufälligen Buchstaben mit unserem A-Z Alphabet-Glücksrad. Dieses kostenlose Online-Drehrad ist ideal für Spiele wie Stadt, Land, Fluss oder zum Lernen.",
+        ogImage: 'https://avisclients.digitalextension.fr/wp-content/uploads/2025/07/roue-en-ligne-alphabet.webp',
+        pageTitle: "Alphabet-Glücksrad (A-Z)",
+        description: "Drehen Sie unser A-Z Glücksrad für Ihre Spiele. Ein ideales Glücksrad für eine Buchstabenziehung.",
+        storageWarning: "Automatische Speicherung: Der Ergebnisverlauf wird in Ihrem Browser gespeichert.",
+        spinButton: "DREHEN",
+        resultsTitle: "Verlauf",
+        hideTooltip: "Panel ausblenden",
+        showTooltip: "Panel anzeigen",
+        clear: "Leeren",
+        draw: "Ziehung",
+        noResults: "Keine Ergebnisse. Drehen Sie das Glücksrad!",
+        sectionTitle: "Das <strong>Alphabet-Glücksrad</strong>: Für Spiele und zum Lernen",
+        sectionDescription: "Ein einfaches und unterhaltsames Werkzeug, um einen zufälligen Buchstaben aus dem Alphabet auszuwählen. Ideal für Stadt, Land, Fluss, Brettspiele oder um Kindern beim Buchstabenlernen mit einem Glücksrad zu helfen.",
+        whatIsTitle: "Was ist das Alphabet-Glücksrad?",
+        whatIsText: "Es ist ein vorkonfiguriertes Glücksrad mit den 26 Buchstaben des Alphabets von A bis Z. Jeder Buchstabe hat die gleiche Chance, ausgewählt zu werden, was bei jeder Drehung eine absolut faire Ziehung garantiert.",
+        whyUseTitle: "Warum dieses Glücksrad verwenden?",
+        whyUseText: "Es ist perfekt, um traditionelle Methoden zum Ziehen von Buchstaben zu ersetzen. Keine Zettel mehr im Hut! Es ist visuell, schnell und macht viel mehr Spaß. Es ist großartig, um Spiele oder Bildungsaktivitäten mit einem Glücksrad zu beleben.",
+        howToUseTitle: "Wie wird es benutzt?",
+        howToUseSteps: [
+            "<strong>Das Glücksrad ist fertig:</strong> Keine Einrichtung erforderlich, alle 26 Buchstaben sind bereits da.",
+            "<strong>Klicken Sie auf \"DREHEN\":</strong> Drücken Sie die Taste, um die Drehung zu starten.",
+            "<strong>Erhalten Sie Ihren Buchstaben:</strong> Das Rad hält an, um einen vollständig zufällig ausgewählten Buchstaben anzuzeigen."
+        ],
+        ideasTitle: "Anwendungsideen für das Glücksrad",
+        ideasItems: [
+            "<strong>Spiel Stadt, Land, Fluss:</strong> Ziehen Sie einen Buchstaben, um jede Runde zu beginnen.",
+            "<strong>Lernen für Kinder:</strong> Helfen Sie Kindern, auf spielerische Weise Buchstaben mit dem Glücksrad zu erkennen.",
+            "<strong>Charaktererstellung:</strong> Ziehen Sie den ersten Buchstaben des Namens Ihres nächsten Rollenspielcharakters.",
+            "<strong>Eisbrecher:</strong> Bitten Sie jeden, ein Wort zu sagen, das mit dem gezogenen Buchstaben beginnt."
+        ],
+        faqTitle: "Häufig gestellte Fragen",
+        faqItems: [
+            { "q": "Ist das Glücksrad wirklich zufällig?", "a": "<strong>Absolut.</strong> Unser Glücksrad verwendet einen Zufallszahlengenerator (RNG), um sicherzustellen, dass jedes Ergebnis <strong>unvorhersehbar und unabhängig</strong> von früheren Drehungen ist. Jedes Segment hat die gleiche Wahrscheinlichkeit, was eine 100% faire Ziehung garantiert. Erfahren Sie mehr in unserer <a href='/de/anleitung-zufallsrad' class='text-primary hover:underline'>Anleitung</a>." },
+            { "q": "Kann ich das Glücksrad auf meinem Handy benutzen?", "a": "<strong>Ja, natürlich!</strong> Unsere Seite ist vollständig so konzipiert, dass sie auf allen Geräten perfekt funktioniert: Desktops, Tablets und Smartphones. Das Erlebnis ist optimiert, damit Sie das Glücksrad drehen können, wo immer Sie sind." },
+            { "q": "Wie werden meine Optionen gespeichert?", "a": "Ihre Glücksrad-Konfiguration wird <strong>automatisch in Ihrem Browser gespeichert</strong> (`localStorage`). Das bedeutet, wenn Sie zurückkehren, finden Sie Ihr Glücksrad so vor, wie Sie es verlassen haben. Es ist 100% privat und sicher auf Ihrem Gerät." },
+            { "q": "Wie teile ich mein benutzerdefiniertes Glücksrad?", "a": "Ganz einfach! Verwenden Sie die Schaltfläche <strong>'Teilen'</strong> im Kopfbereich der Seite. Dadurch wird ein eindeutiger URL-Link generiert, der Ihre Glücksrad-Konfiguration enthält, perfekt für Fernspiele!" },
+            { "q": "Sind meine Daten wirklich privat?", "a": "<strong>Datenschutz hat für uns oberste Priorität.</strong> Alle Ihre Glücksrad-Daten (Optionen und Verlauf) werden <strong>nur auf Ihrem Gerät</strong> gespeichert. Wir sammeln, sehen oder speichern keine dieser Informationen auf unseren Servern. Für weitere Details können Sie gerne unsere <a href='/de/datenschutzrichtlinie' class='text-primary hover:underline'>Datenschutzrichtlinie</a> konsultieren." }
+        ],
+        ctaTitle: "Benötigen Sie andere Optionen?",
+        ctaText: "Erstellen Sie ein Glücksrad mit Namen, Zahlen, Herausforderungen oder allem anderen!",
+        ctaLink: "➤ Erstellen Sie ein benutzerdefiniertes Glücksrad"
+    },
+    pt: {
+        metaTitle: "Roda da Sorte do Alfabeto (A-Z) | Roleta Online de Letras",
+        metaDescription: "Sorteie uma letra ao acaso com a nossa roda da sorte do alfabeto A-Z. Esta roleta online gratuita é a ferramenta de sorteio perfeita para jogos como Adedanha ou para aprender.",
+        ogImage: 'https://avisclients.digitalextension.fr/wp-content/uploads/2025/07/roue-en-ligne-alphabet.webp',
+        pageTitle: "Roda da Sorte do Alfabeto (A-Z)",
+        description: "Gire a nossa roleta giratória A-Z para os seus jogos. Uma roda da sorte ideal para um sorteio de letras.",
+        storageWarning: "Gravação automática: O histórico de resultados é guardado no seu navegador.",
+        spinButton: "GIRAR",
+        resultsTitle: "Histórico",
+        hideTooltip: "Ocultar painel",
+        showTooltip: "Mostrar painel",
+        clear: "Limpar",
+        draw: "Sorteio",
+        noResults: "Sem resultados. Gire a roda!",
+        sectionTitle: "A <strong>Roda da Sorte do Alfabeto</strong>: Para Jogos e Aprendizagem",
+        sectionDescription: "Uma ferramenta simples e divertida para selecionar uma letra do alfabeto ao acaso. Ideal para Adedanha, jogos de tabuleiro, ou para ajudar as crianças a aprender as letras.",
+        whatIsTitle: "O que é a Roda da Sorte do Alfabeto?",
+        whatIsText: "É uma roda da sorte pré-configurada com as 26 letras do alfabeto, de A a Z. Cada letra tem a mesma chance de ser selecionada, garantindo um sorteio perfeitamente justo em cada volta.",
+        whyUseTitle: "Por que usar esta roleta giratória?",
+        whyUseText: "É perfeita para substituir os métodos tradicionais de sorteio de letras. Acabaram-se os papéis num chapéu! É visual, rápida e muito mais divertida. É ótima para animar jogos ou atividades educativas.",
+        howToUseTitle: "Como criar uma roda giratória interativa?",
+        howToUseSteps: [
+            "<strong>A roda está pronta:</strong> Não é necessária qualquer configuração, as 26 letras já estão lá.",
+            "<strong>Clique em \"GIRAR\":</strong> Pressione o botão para iniciar a rotação.",
+            "<strong>Obtenha a sua letra:</strong> A roda irá parar para revelar uma letra escolhida completamente ao acaso."
+        ],
+        ideasTitle: "Ideias de utilização da roda da sorte",
+        ideasItems: [
+            "<strong>Jogo de Adedanha:</strong> Sorteie uma letra para começar cada ronda.",
+            "<strong>Aprendizagem para crianças:</strong> Ajude as crianças a reconhecer as letras de forma lúdica com a roda da sorte.",
+            "<strong>Criação de personagens:</strong> Sorteie a primeira letra do nome do seu próximo personagem de RPG.",
+            "<strong>Quebra-gelos:</strong> Peça a todos para dizerem uma palavra que comece com a letra sorteada."
+        ],
+        faqTitle: "Perguntas Frequentes",
+        faqItems: [
+            { "q": "A roda da sorte é realmente aleatória?", "a": "<strong>Absolutamente.</strong> A nossa roda utiliza um gerador de números aleatórios (RNG) para garantir que cada resultado é <strong>imprevisível e independente</strong> das rotações anteriores. Cada segmento tem a mesma probabilidade de ser selecionado, garantindo um sorteio 100% justo. Pode saber mais no nosso <a href='/pt/guia-roda-da-sorte' class='text-primary hover:underline'>guia de utilização</a>." },
+            { "q": "Posso usar a roda no meu telemóvel?", "a": "<strong>Sim, claro!</strong> O nosso site é totalmente responsivo, o que significa que foi concebido para funcionar perfeitamente em todos os dispositivos: computadores, tablets e smartphones. A experiência está otimizada para que possa girar a roda onde quer que esteja." },
+            { "q": "Como são guardadas as minhas opções?", "a": "A configuração da sua roda, incluindo as suas opções personalizadas, é <strong>automaticamente guardada no armazenamento local do seu navegador</strong> (`localStorage`). Isto significa que quando regressar, encontrará a sua roda tal como a deixou. É 100% privado e seguro no seu dispositivo." },
+            { "q": "Como posso partilhar a minha roda personalizada?", "a": "É muito fácil! Utilize o botão <strong>'Partilhar'</strong> localizado no cabeçalho da página. Isto irá gerar um link URL único contendo a configuração da sua roda, perfeito para jogos à distância!" },
+            { "q": "Os meus dados são realmente privados?", "a": "<strong>A privacidade é a nossa prioridade absoluta.</strong> Todos os dados da sua roda (opções e histórico) são armazenados <strong>apenas no seu dispositivo</strong>. Não recolhemos, vemos ou armazenamos nenhuma destas informações nos nossos servidores. Para mais detalhes, não hesite em consultar a nossa <a href='/pt/politica-de-privacidade' class='text-primary hover:underline'>Política de Privacidade</a>." }
+        ],
+        ctaTitle: "Precisa de outras opções?",
+        ctaText: "Crie uma roda da sorte com nomes, números, desafios ou qualquer outra coisa!",
+        ctaLink: "➤ Criar uma Roda da Sorte Personalizada"
+    }
+}
