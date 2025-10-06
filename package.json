@@ -1,13 +1,11 @@
-
 {
   "name": "nextn",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "npx next dev --port 9002 --hostname 0.0.0.0",
     "build": "next build",
-    "start": "next start",
-    "export": "next export"
+    "start": "next start"
   },
   "dependencies": {
     "@formatjs/intl-localematcher": "^0.5.4",
@@ -45,7 +43,7 @@
     "genkit": "^1.13.0",
     "lucide-react": "^0.475.0",
     "negotiator": "^0.6.3",
-    "next": "15.3.3",
+    "next": "^15.3.3",
     "patch-package": "^8.0.0",
     "react": "^18.3.1",
     "react-day-picker": "^8.10.1",
